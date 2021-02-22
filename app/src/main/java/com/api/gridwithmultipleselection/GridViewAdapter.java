@@ -41,4 +41,6 @@ public class GridViewAdapter extends BaseAdapter {
 
         return customView;
     }
+
+    //gjfjgjf
 }
